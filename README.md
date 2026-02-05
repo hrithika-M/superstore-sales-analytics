@@ -37,7 +37,7 @@ Analyzed shipping mode usage patterns
 
 Visualized insights using clear and interpretable charts
 
-Key Insights:
+->Key Insights:
 
 Sales exhibit noticeable seasonal trends across years
 
