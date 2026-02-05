@@ -13,7 +13,7 @@ Source: Kaggle (licensed under GPL 2).
 
 🔹Phase 2: Data Cleaning & Preprocessing
 
-Loaded raw sales data using Pandas hh
+Loaded raw sales data using Pandas 
 
 Converted date columns (Order Date, Ship Date) into proper datetime format
 
